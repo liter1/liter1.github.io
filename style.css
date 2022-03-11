@@ -1,3 +1,7 @@
+@font-face {
+   font-family: nino;
+   src: url(bpg_nino_mtavruli_normal.ttf);
+
 body {
   background : rgb(202,214,208);
   font-size: 12px;
@@ -8,6 +12,7 @@ body {
 }
 
 .Rampararam{
+  font-family: nino;
   background:red;
   color:#410BE3;
 }
